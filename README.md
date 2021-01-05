@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a repository where I'll be uploading all the project tutorials I'm going to follow to learn new technologies.
+This is a repository where I'll be uploading all the project tutorials I have followed to learn new technologies.
 
 ### Contents
 
