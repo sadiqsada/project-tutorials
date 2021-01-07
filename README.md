@@ -6,5 +6,6 @@ This is a repository where I'll be uploading all the project tutorials I have fo
 
 ### Contents
 
-* Electron - Screen Recorder 
-* Next.js - Basic Fetching 
+- Electron - Screen Recorder
+- Next.js - Basic Fetching
+- Web Assembly - Video to GIF
