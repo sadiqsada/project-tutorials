@@ -9,3 +9,4 @@ This is a repository where I'll be uploading all the project tutorials I have fo
 - Electron - Screen Recorder
 - Next.js - Basic Fetching
 - Web Assembly - Video to GIF
+- GraphQL - Space Explorer
