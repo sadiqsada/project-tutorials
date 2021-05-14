@@ -10,3 +10,4 @@ This is a repository where I'll be uploading all the project tutorials I have fo
 - Next.js - Basic Fetching
 - Web Assembly - Video to GIF
 - SVG - Animations
+- Blockchain - Simple Blockchain
