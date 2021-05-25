@@ -11,3 +11,4 @@ This is a repository where I'll be uploading all the project tutorials I have fo
 - Web Assembly - Video to GIF
 - SVG - Animations
 - Blockchain - Simple Blockchain
+- Three.js - Personal Website
