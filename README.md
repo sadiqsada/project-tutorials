@@ -12,6 +12,8 @@ This is a repository where I'll be uploading all the project tutorials I have fo
 - SVG - Animations
 - Blockchain - Simple Blockchain
 - Three.js - Personal Website
+- Vue.js - Random User Generator
 
 ### Credits
+
 Fireship.io
