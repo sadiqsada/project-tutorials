@@ -13,6 +13,7 @@ This is a repository where I'll be uploading all the project tutorials I have fo
 - Blockchain - Simple Blockchain
 - Three.js - Personal Website
 - Vue.js - Random User Generator
+- Vue.js - Task Tracker
 
 ### Credits
 
