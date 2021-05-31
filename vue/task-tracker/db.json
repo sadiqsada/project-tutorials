@@ -13,12 +13,6 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Food shopping",
-      "day": "March 7th at 2:00pm",
-      "reminder": false
-    },
-    {
       "id": 36848,
       "text": "Do Laundry",
       "day": "Saturday 12 pm",
