@@ -16,7 +16,7 @@
       "id": 36848,
       "text": "Do Laundry",
       "day": "Saturday 12 pm",
-      "reminder": true
+      "reminder": false
     }
   ]
 }
