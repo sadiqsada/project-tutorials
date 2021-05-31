@@ -17,5 +17,5 @@ This is a repository where I'll be uploading all the project tutorials I have fo
 
 ### Credits
 
-Fireship.io
-Brad Traversy
+- Fireship.io
+- Brad Traversy
